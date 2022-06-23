@@ -2,21 +2,12 @@ const questions = [
     {
         "q":"Which of the following attribute triggers event when the browser starts to load the media data?",
         "a":["onloadedmetadata","onloadstart","onmessage","onoffline"],
-        "value":4
+        "value":2
     },
     {
-        "q":"int main()"
-      {
-
-      int a = 2;
-      int b = 4;
-      int c = a ^ b;
-
-      cout << c;
-
-     "}",
-        "a":["2","4","6","8"],
-        "value":1
+        "q":"Which of the following defines a measurement in millimeters?",
+        "a":["in","mm","rem","em"],
+        "value":2
     },
     {
         "q":"Which of the following property is used to change the face of a font?",
